@@ -99,7 +99,7 @@ const Login = () => {
                            
                         </div>
                     </form>
-                    <p className='my-4 text-center'>New here? Create a New Account <Link className='text-orange-600 font-bold' to="/signUp">SignUp</Link> </p>
+                    <p className='my-4 text-center'>New here? Create a New Account from <Link className='text-orange-600 font-bold' to="/signUp">SignUp</Link> </p>
                     <SocialLogin></SocialLogin>
                 </div>
             </div>
